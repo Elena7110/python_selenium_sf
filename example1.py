@@ -14,5 +14,6 @@ driver.get('http://130.193.37.179/app/pets')
 
 
 sleep(3)
-driver.save_screenshot('pet_home.png')
+driver.save_screenshot('pet_home98763.png')
+sleep(100)
 driver.quit()
